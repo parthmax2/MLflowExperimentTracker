@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/patha/MLflowExperimentTracker/mlruns/171658046773707650/232f9f00b0bf40d396b48a32c1b505a0/artifacts
+end_time: 1744188039105
+entry_point_name: ''
+experiment_id: '171658046773707650'
+lifecycle_stage: active
+run_id: 232f9f00b0bf40d396b48a32c1b505a0
+run_name: awesome-turtle-388
+run_uuid: 232f9f00b0bf40d396b48a32c1b505a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744188034835
+status: 3
+tags: []
+user_id: patha

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/patha/MLflowExperimentTracker/mlruns/171658046773707650/ea6b2baeca544117bbfc4a816e6062eb/artifacts
+end_time: 1744191423142
+entry_point_name: ''
+experiment_id: '171658046773707650'
+lifecycle_stage: active
+run_id: ea6b2baeca544117bbfc4a816e6062eb
+run_name: righteous-deer-453
+run_uuid: ea6b2baeca544117bbfc4a816e6062eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744191419267
+status: 3
+tags: []
+user_id: patha

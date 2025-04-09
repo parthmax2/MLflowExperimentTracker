@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744191468258
+current_stage: None
+description: null
+last_updated_timestamp: 1744191468258
+name: IrisRandomForestModel
+run_id: ea6b2baeca544117bbfc4a816e6062eb
+run_link: null
+source: file:///C:/Users/patha/MLflowExperimentTracker/mlruns/171658046773707650/ea6b2baeca544117bbfc4a816e6062eb/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/patha/MLflowExperimentTracker/mlruns/171658046773707650/ea6b2baeca544117bbfc4a816e6062eb/artifacts/model
+user_id: null
+version: 2

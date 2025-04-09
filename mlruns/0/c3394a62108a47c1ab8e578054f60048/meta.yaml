@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/patha/MLflowExperimentTracker/mlruns/0/c3394a62108a47c1ab8e578054f60048/artifacts
+end_time: 1744187949481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3394a62108a47c1ab8e578054f60048
+run_name: carefree-worm-647
+run_uuid: c3394a62108a47c1ab8e578054f60048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744187949339
+status: 4
+tags: []
+user_id: patha
