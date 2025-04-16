@@ -12,7 +12,7 @@ client = MlflowClient()
 experiment = client.get_experiment_by_name(experiment_name)
 
 if experiment is None:
-    print(f"Bruh, experiment '{experiment_name}' not found 😶")
+    print(f"Bruh, experiment '{experiment_name}' not found ")
     exit()
 
 # Get the latest run from this experiment (most recent one)
@@ -23,7 +23,7 @@ runs = client.search_runs(
 )
 
 if not runs:
-    print("No runs found, did you train the model yet? 😅")
+    print("No runs found, did you train the model yet? ")
     exit()
 
 # Grab run ID and model location
